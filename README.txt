@@ -1,9 +1,9 @@
-Info for: Species and Trait Distributions Along Environmental Gradients
+Species and Trait Distributions Along Environmental Gradients
 
-The following Mathematica script accompanies the pre-print (bioRxiv link). 
-The script contains all code required to generate every figure using Mathematica Version 14.0.
+This Mathematica script contains the code used to generate the figures presented in
+this study. The script was written for Mathematica Version 14.0.
 
-The script requires the EcoEvo package for Mathematica. This package can be downloaded directly 
-within the script using the following command:
+The script requires the EcoEvo package for Mathematica. The package can be installed
+by running the following command:
 
 PacletInstall["EcoEvo", "Site" -> "http://raw.githubusercontent.com/cklausme/EcoEvo/master"]
