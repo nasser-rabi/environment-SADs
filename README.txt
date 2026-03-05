@@ -1,4 +1,4 @@
-RSpecies and Trait Distributions Along Environmental Gradients
+Info for: Species and Trait Distributions Along Environmental Gradients
 
 The following Mathematica script accompanies the pre-print (bioRxiv link). 
 The script contains all code required to generate every figure using Mathematica Version 14.0.
